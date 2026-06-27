@@ -1,0 +1,15 @@
+# Airflow internals (local only, not needed in repo)
+airflow.db
+airflow.cfg
+airflow-webserver.pid
+webserver_config.py
+standalone_admin_password.txt
+logs/
+26.1.2
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
